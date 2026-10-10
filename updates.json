@@ -56,6 +56,11 @@
           "version": "1.0.13",
           "update_link": "https://raw.githubusercontent.com/ynktarik/knvggmtd8u9b8q/main/releases/v1.0.13.xpi",
           "update_hash": "sha256:dee50999178a8dffd719020ff722788542b3fe5a064a48e349a39252331a956e"
+        },
+        {
+          "version": "1.0.14",
+          "update_link": "https://raw.githubusercontent.com/ynktarik/knvggmtd8u9b8q/main/releases/v1.0.14.xpi",
+          "update_hash": "sha256:de3d1c5c2223567be49f34498689bbf17be363009cf514a84762cc9f3240b6ef"
         }
       ]
     }
